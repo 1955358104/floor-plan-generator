@@ -9,7 +9,7 @@
 **English:** This is a repository for a free, online AI Floor Plan Generator. It allows architects, real estate agents, and homeowners to create professional 2D and 3D floor plans from simple text descriptions or hand-drawn sketches.
 
 **中文简介：**
-免费在线 AI 平面图设计工具！通过文字描述智能生成各种风格的户型布局图，支持 2D/3D 创作风格，轻松创建专业的空间规划作品，无需任何 CAD 软件基础。
+免费在线 AI 平面图设计工具！通过文字描述智能生成各种风格的户型布局图，支持 2D/3D 创作风格，轻松创建专业的空间规划作品，无需任何 CAD 软件基础
 
 ## ➡️ [**立即免费生成您的户型图 (Click to Use for Free)**](https://www.eyuseo.com/zh/image-generator/floor-plan-design)
 
